@@ -13,6 +13,7 @@ public class Kategori {
     private String id_katalog;
     private String namaKatalog;
     private String tanggalKatalog;
+    private String tanggalKatalogsss;
     
     
 }
